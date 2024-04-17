@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AChUzsxI9P6SdDOjpjdqS0UEvpRTkEzP1fQ4ApdHoQ8=",
+  "Source": "persons-api",
+  "BasePath": "_content/persons-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
